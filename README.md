@@ -2,6 +2,8 @@
 
 > **Active, personalized spiritual engagement for Gen Z, ensuring 100% theological safety.**
 
+📹 **[Watch 90-Second Demo](https://youtu.be/NqS5iJpFjl8)**
+
 ![UI Preview](demo/ui_preview.png)
 
 ## 📖 Vision
