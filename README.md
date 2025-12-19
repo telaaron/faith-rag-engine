@@ -41,6 +41,8 @@ A Vector Database allows us to search for *meaning*, not just keywords.
 -   *Keyword Search*: "Anxiety" -> finds verses with the word "anxiety".
 -   *Vector Search*: "I feel like the walls are closing in" -> finds verses about fear, refuge, and God's peace, even if they don't use the exact words.
 
+👉 **[Read the full technical breakdown of our Vector Ingestion Pipeline here](docs/VECTOR_INGESTION.md)**
+
 ---
 
 ## 🛠️ Tech Stack
