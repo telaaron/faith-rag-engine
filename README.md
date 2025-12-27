@@ -1,5 +1,11 @@
 # Spiritual Companion MVP 🕊️
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-FAISS--RAG-red)](https://www.langchain.com/)
+[![Google Vertex AI](https://img.shields.io/badge/Google-Vertex%20AI-4285F4?logo=google-cloud)](https://cloud.google.com/vertex-ai)
+
 > **Active, personalized spiritual engagement for Gen Z, ensuring 100% theological safety.**
 
 📹 **[Watch 90-Second Demo](https://youtu.be/NqS5iJpFjl8)**
